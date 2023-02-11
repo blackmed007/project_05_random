@@ -1,0 +1,15 @@
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/bin/Debug/net7.0/Project 05 Random Number Generators
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/bin/Debug/net7.0/Project 05 Random Number Generators.deps.json
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/bin/Debug/net7.0/Project 05 Random Number Generators.runtimeconfig.json
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/bin/Debug/net7.0/Project 05 Random Number Generators.dll
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/bin/Debug/net7.0/Project 05 Random Number Generators.pdb
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.csproj.AssemblyReference.cache
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.AssemblyInfoInputs.cache
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.AssemblyInfo.cs
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.csproj.CoreCompileInputs.cache
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.dll
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/refint/Project 05 Random Number Generators.dll
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.pdb
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/Project 05 Random Number Generators.genruntimeconfig.cache
+/Users/abdelhamid/Desktop/Project 05/Project 05 Random Number Generators/Project 05 Random Number Generators/obj/Debug/net7.0/ref/Project 05 Random Number Generators.dll
